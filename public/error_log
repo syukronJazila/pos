@@ -1,0 +1,287 @@
+[26-Oct-2024 16:31:38 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[26-Oct-2024 16:31:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[26-Oct-2024 16:31:40 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[26-Oct-2024 16:31:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[26-Oct-2024 16:31:42 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[26-Oct-2024 16:31:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 15:59:01 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 15:59:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 15:59:02 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 15:59:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 15:59:04 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 15:59:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 15:59:07 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 15:59:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 15:59:51 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 15:59:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 15:59:52 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 15:59:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 15:59:54 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 15:59:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 15:59:55 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 15:59:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 15:59:55 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 15:59:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:04:29 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:04:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:04:29 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:04:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:04:33 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:04:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:04:34 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:04:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:04:34 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:04:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:04:34 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:04:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:04:36 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:04:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:04:44 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:04:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:08:46 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:08:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:08:47 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:08:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:08:49 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:08:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:09:13 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:09:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:09:21 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:09:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:11:32 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:11:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:11:33 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:11:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:11:35 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:11:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:11:36 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:11:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:11:37 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:11:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:11:37 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:11:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:15:30 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:15:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:16:38 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:16:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:22:48 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[01-Nov-2024 16:22:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[04-Nov-2024 07:53:03 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[04-Nov-2024 07:53:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[04-Nov-2024 07:53:05 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[04-Nov-2024 07:53:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[04-Nov-2024 07:53:06 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[04-Nov-2024 07:53:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[04-Nov-2024 07:53:07 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[04-Nov-2024 07:53:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[04-Nov-2024 07:53:07 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[04-Nov-2024 07:53:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[04-Nov-2024 07:53:07 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[04-Nov-2024 07:53:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[04-Nov-2024 07:53:08 UTC] PHP Warning:  require(/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../pos/vendor/autoload.php): Failed to open stream: No such file or directory in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[04-Nov-2024 07:53:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/potensi1/public_html/potensikaryamandiri.com/kasir/../../pos/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/potensi1/public_html/potensikaryamandiri.com/kasir/index.php on line 34
+[04-Nov-2024 09:47:59 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:49:01 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:49:03 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:49:05 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:49:31 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:49:33 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:49:33 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:49:34 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:49:34 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:49:34 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:49:34 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:49:34 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:49:34 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:49:35 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:49:35 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:49:36 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:49:57 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:49:59 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:50:01 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:50:02 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:54:22 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:54:23 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:54:46 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:55:03 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:55:05 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:55:06 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:57:26 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 09:57:28 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:01:21 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:01:30 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:01:32 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:01:34 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:01:36 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:01:55 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:01:56 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:01:57 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:01:57 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:01:57 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:03:00 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:03:01 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:03:04 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:21:55 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:21:56 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:21:56 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:21:56 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:21:56 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:21:56 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:21:57 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:21:57 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:21:57 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:21:57 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:21:57 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:21:57 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:21:58 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:21:58 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:21:58 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:21:59 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:22:00 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:22:00 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:22:00 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:22:01 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:22:01 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:22:02 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:22:02 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:22:02 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:22:02 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:22:03 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:22:03 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:22:03 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:26:25 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:26:26 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:26:26 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:26:27 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:26:27 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:26:27 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:26:27 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:26:28 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:26:28 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:26:28 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:26:28 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:26:28 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
+[04-Nov-2024 10:26:30 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/potensi1/public_html/potensikaryamandiri.com/kasir/vendor/composer/platform_check.php on line 28
